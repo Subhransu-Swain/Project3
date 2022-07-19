@@ -1,0 +1,13 @@
+body{
+   
+    background-image: url("https://imgs.search.brave.com/OJLA5EaInFHa5XGF6Jk8-dzcr93_XIkEWm8rRlzJ43M/rs:fit:1200:1080:1/g:ce/aHR0cDovL2Nkbi5l/bGVnYW50dGhlbWVz/LmNvbS9ibG9nL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDEzLzA5/L2JnLTctZnVsbC5q/cGc");
+    background-size: cover;
+}
+.user-img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+a{
+    text-decoration: none;
+}

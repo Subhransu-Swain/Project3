@@ -1,0 +1,89 @@
+h1 {
+    color: rgb(226, 25, 25);
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    color: rgb(233, 15, 15);
+    text-align: center;
+    font-style: italic;
+}
+
+/* body{
+    background-color: rgb(126, 212, 50);
+   
+} */
+h2 {
+    color: rgb(231, 247, 17);
+
+    font-style: italic;
+}
+
+body {
+    background-image: url('https://imgs.search.brave.com/BO2yFo5GJmWeMF3_oXoUUb4vtWrQIS8ylzshubWsgyc/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Z/SWI2NWp0aE5yd3pf/MTdIbk1Jc1JRSGFF/SyZwaWQ9QXBp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* h3{
+    color: rgb(217, 240, 9);
+    
+    font-style: italic;
+} */
+p {
+    background-color: rgb(0, 0, 0);
+
+}
+
+h4,
+ul {
+    color: hsl(0, 0%, 0%);
+
+    font-style: italic;
+}
+
+ol {
+    color: hsl(172, 74%, 49%);
+
+    font-style: italic;
+}
+
+/* ol{
+    background-color: rgb(0, 0, 0);
+   
+} */
+/* a {
+    color: rgba(67, 10, 121, 0.932);
+
+    font-style: italic;
+}
+
+dd {
+    background-color: rgb(156, 238, 101);
+
+} */
+
+.class3 {
+    background-color: rgb(221, 183, 101);
+}
+
+#redg {
+    color: rgb(5, 3, 7);
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+.g {
+    background-color: rgb(0, 0, 0);
+    color: red;
+}
+.g1 {
+    background-color: rgb(0, 0, 0);
+    /* color: red; */
+}
+.g2 {
+    background-color: rgb(238, 0, 0);
+    /* color: red; */
+}
