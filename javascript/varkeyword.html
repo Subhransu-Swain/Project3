@@ -1,0 +1,33 @@
+<!-- two types of comment lines in js
+1.single line comment//
+2.multi line comment/* */-->
+<!-- used for var key -->
+<!-- <html>
+
+<body>
+    <script>
+        var no = 50;//declaring variable
+        function varfun(){//define the function
+            document.write(no);
+        }
+        varfun();//calling the function
+    </script>
+</body>
+
+</html>
+<html> -->
+<html>
+<body>
+    <script>
+        var no1 = 50;//global variable
+        function varfun(){//define the function
+            var no1 = 60;
+            document.write(no1+"<br/>");
+            document.write(window.no1+"<br/>");
+        }
+        varfun();//calling the function
+        document.write(no1);
+    </script>
+</body>
+
+</html>
